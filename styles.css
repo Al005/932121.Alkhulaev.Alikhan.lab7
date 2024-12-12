@@ -1,0 +1,9 @@
+body, html {
+    height: 100%;
+}
+
+.figure-field{
+    width:1600px;
+    height: 900px;
+    display: flex;    
+}
